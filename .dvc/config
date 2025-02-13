@@ -1,2 +1,4 @@
-['remote "origin"']
-    url = https://dagshub.com/Naros21/Template_MLOps_accidents.dvc
+[core]
+    remote = origine
+['remote "origine"']
+    url = https://dagshub.com/Naros21/examen-dvc.dvc
